@@ -8,7 +8,9 @@ public class MobileAutomationTest {
 	public void MobileTest1()
 	{
 		System.out.println("MobileTest1");
+		System.out.println("MobileTest1");
 	}
+	
 	@Test
 	public void MobileTest2()
 	{
