@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81" started-at="2019-11-16T19:55:12 EST" finished-at="2019-11-16T19:55:12 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="81" started-at="2019-11-16T19:55:12 EST" finished-at="2019-11-16T19:55:12 EST">
+      <class name="jitenpatel.RestAPITest">
+        <test-method status="PASS" signature="RestAPI1()[pri:0, instance:jitenpatel.RestAPITest@49993335]" name="RestAPI1" duration-ms="0" started-at="2019-11-16T19:55:12 EST" finished-at="2019-11-16T19:55:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPI1 -->
+        <test-method status="PASS" signature="RestAPI2()[pri:0, instance:jitenpatel.RestAPITest@49993335]" name="RestAPI2" duration-ms="1" started-at="2019-11-16T19:55:12 EST" finished-at="2019-11-16T19:55:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPI2 -->
+      </class> <!-- jitenpatel.RestAPITest -->
+      <class name="jitenpatel.SeleniumTest">
+        <test-method status="PASS" signature="Selnium2()[pri:0, instance:jitenpatel.SeleniumTest@5025a98f]" name="Selnium2" duration-ms="9" started-at="2019-11-16T19:55:12 EST" finished-at="2019-11-16T19:55:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selnium2 -->
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:jitenpatel.SeleniumTest@5025a98f]" name="browserAutomation" duration-ms="0" started-at="2019-11-16T19:55:12 EST" finished-at="2019-11-16T19:55:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- jitenpatel.SeleniumTest -->
+      <class name="jitenpatel.MobileAutomationTest">
+        <test-method status="PASS" signature="MobileTest1()[pri:0, instance:jitenpatel.MobileAutomationTest@20322d26]" name="MobileTest1" duration-ms="1" started-at="2019-11-16T19:55:12 EST" finished-at="2019-11-16T19:55:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest1 -->
+        <test-method status="PASS" signature="MobileTest2()[pri:0, instance:jitenpatel.MobileAutomationTest@20322d26]" name="MobileTest2" duration-ms="0" started-at="2019-11-16T19:55:12 EST" finished-at="2019-11-16T19:55:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest2 -->
+      </class> <!-- jitenpatel.MobileAutomationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
