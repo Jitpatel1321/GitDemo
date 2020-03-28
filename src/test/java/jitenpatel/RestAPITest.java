@@ -17,6 +17,9 @@ public class RestAPITest {
 	public void RestAPI2()
 	{
 		System.out.println("RestAPI2");
+		System.out.println("RestAPI3");
+		System.out.println("RestAPI4");
+		System.out.println("RestAPI5");
 	}
 
 }
