@@ -14,4 +14,11 @@ public class MobileAutomationTest {
 	{
 		System.out.println("MobileTest2");
 	}
+	
+	@Test
+	public void MobileTest3()
+	{
+		System.out.println("MobileTest3");
+	}
+	
 }
